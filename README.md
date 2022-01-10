@@ -3,6 +3,6 @@
 ## Learning Python 
 
 **Projects:**
-*base_template:*
-   - BAse structure of Puthon project
-*and other text:*
+- base_template:
+   BAse st Puthon project
+- and other text:
